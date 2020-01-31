@@ -13,7 +13,7 @@ Hi! This is Xuetao Liu and this project is about how I do the following
 ## Collecting the dataset
 
 
-As we all know that the quality of our dataset determines the quality of our model, so it is indeed the crucial part in conducting our project. We decide to use Google Images to collect our dataset, with the help of useful tool [`gi2ds`](https://github.com/toffebjorkskog/ml-tools/blob/master/gi2ds.md#bookmarklet) created by **Christoffer Björkskog**, which can let us easily collect the url link of images shown in the Google Images and place them into our txt file. Below is the video demo about how I use this tool to collect the images.[![Figure1](https://i.ibb.co/VJc7BTt/2020-01-3117-19-41.png)](https://youtu.be/DMCR8EVWK7A) 
+As we all know that the quality of our dataset determines the quality of our model, so it is indeed the crucial part in conducting our project. We decide to use Google Images to collect our dataset, with the help of useful tool [`gi2ds`](https://github.com/toffebjorkskog/ml-tools/blob/master/gi2ds.md#bookmarklet) created by **Christoffer Björkskog**, which can let us easily collect the url link of images shown in the Google Images and place them into our txt file. Below is the video demo about how I use this tool to collect the images.[![Figure1](https://i.ibb.co/VJc7BTt/2020-01-3117-19-41.png)](https://youtu.be/HWgKpkildYA) 
 
 ### Download the images from the txt file
 
@@ -180,8 +180,7 @@ Assume that we all can successfully import the images to GCS storage and have al
 The exact steps are shown in the notebooks `SneakerDetector.ipynb`.
 
 Here is the video about how my model works on my ios devices.
-  
-[![Delpoy the model on my ios devices](https://i.ibb.co/WWftRSv/2020-01-3116-28-49.png)](https://youtu.be/DMCR8EVWK7A)
+[![Delpoy the model on my ios devices](https://i.ibb.co/WWftRSv/2020-01-3116-28-49.png)](https://youtu.be/rCkLefdMPzg)
   
 ---
 

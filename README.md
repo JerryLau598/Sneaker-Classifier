@@ -9,4 +9,5 @@ Hi! This is Xuetao Liu and this project is about how I do the following
   
   Here is the video about how I collect my dataset.
   
-  [![Collect my dataset](https://youtu.be/DMCR8EVWK7A)](https://youtu.be/DMCR8EVWK7A "Collect my dataset")
+  [![Collect my dataset](https://i.ibb.co/WWftRSv/2020-01-3116-28-49.png)](https://youtu.be/DMCR8EVWK7A "Collect my dataset")
+  
